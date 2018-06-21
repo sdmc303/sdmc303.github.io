@@ -476,6 +476,9 @@ h6,
 #ext_menu-6 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#ext_menu-6 .dropdown:hover > .dropdown-menu {
+  display: block;
+}
 #gallery4-4 .mbr-gallery-item > div > span {
   font-size: 12px;
   color: #efefef;
@@ -512,6 +515,12 @@ h6,
 }
 #form1-j SMALL {
   color: #c0a375;
+}
+#custom-html-o {
+  /* Type valid CSS here */
+}
+#custom-html-o .my-image {
+  width: 100%;
 }
 
 #ext_menu-7 .hide-buttons .nav-btn {
