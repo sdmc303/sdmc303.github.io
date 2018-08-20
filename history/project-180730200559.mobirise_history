@@ -28,16 +28,12 @@
     "noImageResize": "true",
     "versionFirst": "3.12.1",
     "uniqCompNum": 25,
-    "versionPublish": "4.8.1",
+    "versionPublish": "4.5.4",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "google-analytics": "",
     "cookiesAlert": "",
-    "siteUrl": "undefined",
-    "siteFonts": [],
-    "publishType": "github",
-    "gitHubName": "sdmc303.github.io",
-    "gitHubPath": ""
+    "siteUrl": "undefined"
   },
   "pages": {
     "home.html": {

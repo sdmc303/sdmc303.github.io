@@ -1,7 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -496,9 +498,12 @@ h6,
 #header5-e .mbr-section-title {
   color: #7e9b9f;
   text-align: left;
+  font-family: 'Lato', sans-serif;
+  font-size: 48px;
 }
 #header5-e .mbr-section-lead {
   color: #c0a375;
+  font-size: 22px;
 }
 #social-buttons2-k .mbr-section-title,
 #social-buttons2-k .btn-social {
@@ -507,20 +512,8 @@ h6,
 #social-buttons2-k .mbr-section-title {
   color: #7e9b9f;
 }
-#form1-j .form-control-label {
+#form1-p .form-control-label {
   color: #232323;
-}
-#form1-j .mbr-section-title {
-  color: #7e9b9f;
-}
-#form1-j SMALL {
-  color: #c0a375;
-}
-#custom-html-o {
-  /* Type valid CSS here */
-}
-#custom-html-o .my-image {
-  width: 100%;
 }
 
 #ext_menu-7 .hide-buttons .nav-btn {
