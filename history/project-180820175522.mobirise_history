@@ -28,12 +28,17 @@
     "noImageResize": "true",
     "versionFirst": "3.12.1",
     "uniqCompNum": 25,
-    "versionPublish": "4.5.4",
+    "versionPublish": "4.8.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "google-analytics": "",
     "cookiesAlert": "",
-    "siteUrl": "undefined"
+    "siteUrl": "undefined",
+    "siteFonts": [],
+    "publishType": "local",
+    "gitHubName": "sdmc303.github.io",
+    "gitHubPath": "",
+    "publishPath": "file:///Users/Focal_303/Desktop/Irene%20Website"
   },
   "pages": {
     "home.html": {

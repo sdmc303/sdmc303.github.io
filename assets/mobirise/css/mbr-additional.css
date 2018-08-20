@@ -413,7 +413,7 @@ h6,
   color: #c0a375;
 }
 .scrollToTop_wraper {
-  opacity: 0 !important;
+  display: none;
 }
 #ext_menu-6 .hide-buttons .nav-btn {
   display: none !important;
@@ -478,9 +478,6 @@ h6,
 #ext_menu-6 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#ext_menu-6 .dropdown:hover > .dropdown-menu {
-  display: block;
-}
 #gallery4-4 .mbr-gallery-item > div > span {
   font-size: 12px;
   color: #efefef;
@@ -512,8 +509,14 @@ h6,
 #social-buttons2-k .mbr-section-title {
   color: #7e9b9f;
 }
-#form1-p .form-control-label {
+#form1-j .form-control-label {
   color: #232323;
+}
+#form1-j .mbr-section-title {
+  color: #7e9b9f;
+}
+#form1-j SMALL {
+  color: #c0a375;
 }
 
 #ext_menu-7 .hide-buttons .nav-btn {

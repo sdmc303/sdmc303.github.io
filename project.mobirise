@@ -34,10 +34,7 @@
     "google-analytics": "",
     "cookiesAlert": "",
     "siteUrl": "undefined",
-    "siteFonts": [],
-    "publishType": "github",
-    "gitHubName": "sdmc303.github.io",
-    "gitHubPath": ""
+    "siteFonts": []
   },
   "pages": {
     "home.html": {
