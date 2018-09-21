@@ -295,18 +295,6 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2869-800x638.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-2869.jpg",
-                "caption": "Acrylic on canvas - ",
-                "active": true,
-                "alt": "",
-                "title": ""
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-2538-1000x749-800x599.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-2538-1000x749.jpg",
                 "caption": "Acrylic on canvas - ",
@@ -332,7 +320,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/img-2540-1000x749-800x599.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-2540-1000x749.jpg",
                 "caption": "Acrylic on canvas - ",
-                "active": false,
+                "active": true,
                 "alt": ""
               }
             ]
