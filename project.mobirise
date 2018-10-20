@@ -35,11 +35,7 @@
     "cookiesAlert": "",
     "siteUrl": "",
     "siteFonts": [],
-    "sitemapSwitcherAuto": "on",
-    "publishType": "local",
-    "gitHubName": "sdmc303",
-    "gitHubPath": "",
-    "publishPath": "file:///Users/Focal_303/Desktop/Irene%20Website"
+    "sitemapSwitcherAuto": "on"
   },
   "pages": {
     "contact.html": {
